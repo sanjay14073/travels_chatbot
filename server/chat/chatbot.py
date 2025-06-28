@@ -22,7 +22,7 @@ class ChatBot:
         Also if flight is viable then you can provide the user with the flight details and also add a note that the flight is subject to availability.provide the cheapest flight details.
         if train is viable then you can provide the user with the train details and also add a note that the train is subject to availability.provide the train details.
         If the user asks for a hotel then you can provide the user with the hotel details and also add a note that the hotel is subject to availability.provide the cheapest hotel through google hotels api.
-        if the user asks for a itenerary then you can provide the user with the itinerary through google travel api.
+        if the user asks for a itenerary then you can provide the user with the itinerary.
         Provide the user with the correct information based on the query.
         If you are not sure about the answer, politely inform the user that you don't have that information and they may contact xwheels at no +91 9223261217.
         ##USER QUERY
